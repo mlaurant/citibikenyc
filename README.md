@@ -19,6 +19,6 @@ All of the project data is contained in the uploaded project folder. The subfold
 ## Project Report
 Click here the see the final [Tableau Storyboard] (https://public.tableau.com/views/CitiBikeNYCRiderStudy-September2013/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 ## Data Sources
-[Citi Bike Data] (https://www.kaggle.com/datasets/ryanmcummings/citi-bike-data)
-[New York Geojson file] (https://cartographyvectors.com/map/508-new-york-city-boroughs-ny)
-[Federal Reserve Economic Data - Real Disposable Personal Income] (https://data.nasdaq.com/data/FRED/DSPIC96-real-disposable-personal-income)
+1. [Citi Bike Data] (https://www.kaggle.com/datasets/ryanmcummings/citi-bike-data)
+2. [New York Geojson file] (https://cartographyvectors.com/map/508-new-york-city-boroughs-ny)
+3. [Federal Reserve Economic Data - Real Disposable Personal Income] (https://data.nasdaq.com/data/FRED/DSPIC96-real-disposable-personal-income)
