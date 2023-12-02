@@ -1,0 +1,11 @@
+stationid,neighborhood,borough,zipcode,station_name,latitude,longitude,count
+2001,,Brooklyn,11251,7 Ave & Farragut St,40.69892054,-73.97332996,5
+2005,,Brooklyn,11251,Railroad Ave & Kay Ave,40.70531194,-73.97100056,5
+372,Clinton Hill,Brooklyn,11225,Franklin Ave & Myrtle Ave,40.694528,-73.958089,8
+321,Dumbo,Brooklyn,11201,Cadman Plaza E & Red Cross Pl,40.69991755,-73.98971773,11
+119,,Brooklyn,11251,Park Ave & St Edwards St,40.69608941,-73.97803415,11
+421,,Brooklyn,11205,Clermont Ave & Park Ave,40.69573398,-73.97129668,14
+431,,Brooklyn,11201,Hanover Pl & Livingston St,40.68864636,-73.98263429,14
+298,,Brooklyn,11227,3 Ave & Schermerhorn St,40.68683208,-73.9796772,15
+436,,Brooklyn,11233,Hancock St & Bedford Ave,40.68216564,-73.95399026,17
+343,Brooklyn Navy Yard,Brooklyn,11251,Clinton Ave & Flushing Ave,40.69794,-73.96986848,19
